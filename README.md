@@ -29,6 +29,10 @@ SecureFile is a web-based application that allows users to encrypt and decrypt f
 
 https://securefile-encryption-tool.onrender.com
 
+## Screenshot
+
+![SecureFile Demo](securefile-demo.png.png)
+
 ## GitHub Repository
 
 https://github.com/Vaishnavi76685/SecureFile-Encryption-Tool
